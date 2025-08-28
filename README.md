@@ -23,8 +23,23 @@
         4) 참조 문서의 내용만을 바탕으로 답변하세요
         5) 답변은 한국어로 작성하고, 필요시 구체적인 예시를 포함하세요
 
-4. 시연
+4.실행을 위한 환경설정 및 패키지 설치
+   - pip install python-dotenv
+   - pip install langchain
+   - pip install langchain-openai
+   - pip install langchain-community
+   - pip install langchain-core
+   - pip install chromadb
+   - pip install langchain-chroma
+   - pip install gradio
+   - 가상환경 사용 (권장)
+    # 가상환경 생성 python -m venv .venv
+    # 가상환경 활성화 (Windows) .venv\Scripts\activate
+    # 가상환경 활성화 (Mac/Linux)  source .venv/bin/activate
+    # 패키지 설치 pip install -r requirements.txt
+      
+5. 시연
 
-5. 후기
+6. 후기
    - 동작 하는 챗봇을 만들어낸 스스로가 대견함: many thanks to 강사님 & chat GPT
    - 챗봇의 품질에 가장 중요한 요소는 원본 Data의 완결성 -> 기획단계가 매우 중요
