@@ -41,6 +41,6 @@
 5. 시연
 
 6. 후기
-   - 동작 하는 챗봇을 만들어낸 스스로가 대견함: many thanks to 강사님 & chat GPT
+   - 동작 하는 챗봇을 만들어낸 스스로가 대견함: many thanks to 강사님 & claude
    - 챗봇의 품질에 가장 중요한 요소는 원본 Data의 완결성 -> 기획단계가 매우 중요
    - 더 해보고 싶은것: RAGAS를 통한 답변 품질 점검, Query Expansion을 통해서 유사한 질문 답변능력 확대, Langgraph의 Agent 기능 활용
