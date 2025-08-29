@@ -1,4 +1,4 @@
-# RAG-training
+# 별별렌터카 챗봇: RAG-training
 25년 8월 RAG교육
 
 1. 프로젝트 배경
